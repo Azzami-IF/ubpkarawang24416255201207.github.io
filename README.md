@@ -10,6 +10,6 @@ Blog ini berisi beberapa postingan terkait materi dasar Basis Data, yaitu:
 4. Pengertian Physical Model
 
 ## Data Diri
-Nama : Habiburrohman Azzami
-NIM  : 24416255201207  
-Kelas: IF24A
+- Nama : Habiburrohman Azzami
+- NIM  : 24416255201207  
+- Kelas: IF24A
